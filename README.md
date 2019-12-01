@@ -1,7 +1,7 @@
 # Victorian400 Dataset
 Colorizing Victorian Illustrations with the Victorian400 Dataset | by Hoyeol Kim
 
-###Download: [Victorian400](https://drive.google.com/file/d/1yKp2flysO9paKIUlEG4TQ7ne4obC1EdF/view?usp=sharing)
+###Download: [Victorian400](https://drive.google.com/file/d/1yKp2flysO9paKIUlEG4TQ7ne4obC1EdF/view?usp=sharing)(521mb)
 
 ###Dataset
 This dataset was originally created to colorize Charles Dickens’ illustrations. Due to a lack of data, however, the scope of this dataset has been expanded to all nineteenth century illustrations. Colorful images from the nineteenth century were selected to be used in the dataset, which were converted to black and white images for training data.
