@@ -35,5 +35,5 @@ Please use the following reference to cite the dataset:
 or 
 
 ```
-Kim, Hoyeol, Colorizing Victorian Illustrations with the Victorian400 Dataset, December 2019. GitHub repository: github.com/elibooklover/Victorian400.
+Kim, Hoyeol, *Colorizing Victorian Illustrations with the Victorian400 Dataset*, December 2019. GitHub repository: github.com/elibooklover/Victorian400.
 ```
