@@ -1,5 +1,5 @@
 # Victorian400 Dataset
-Colorizing Victorian Illustrations with the Victorian400 Dataset | by Hoyeol Kim
+Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 
 ---
 ### Download: [Victorian400](https://drive.google.com/file/d/1yKp2flysO9paKIUlEG4TQ7ne4obC1EdF/view?usp=sharing) (521mb)
@@ -15,7 +15,8 @@ This dataset contains three different folders: original, resized, and gray. Imag
 ---
 The Victorian400 dataset was tested with [pix2pix](https://phillipi.github.io/pix2pix/) developed by Isola et al.
 
-### ![Validation Results](https://github.com/elibooklover/Victorian400/blob/master/Examples/Example.png)
+### Test Results 
+![Test Results](https://github.com/elibooklover/Victorian400/blob/master/Examples/Example.png)
 
 ---
 
@@ -24,7 +25,7 @@ Please use the following reference to cite the dataset:
 ```
 @misc{Victorian400,
     author       = {Hoyeol Kim},
-    title        = {{Colorizing Victorian Illustrations with the Victorian400 Dataset}},
+    title        = {{Victorian400 Dataset for Colorizing Victorian Illustrations}},
     month        = Dec,
     year         = 2019,
     publisher    = {GitHub},
@@ -35,5 +36,10 @@ Please use the following reference to cite the dataset:
 or 
 
 ```
-Kim, Hoyeol, Colorizing Victorian Illustrations with the Victorian400 Dataset, December 2019. GitHub repository: github.com/elibooklover/Victorian400.
+Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, December 2019. GitHub repository: github.com/elibooklover/Victorian400.
 ```
+
+---
+###[License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![License](https://github.com/elibooklover/Victorian400/blob/master/license.png)
+
