@@ -40,6 +40,7 @@ Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, Decemb
 ```
 
 ---
-###[License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ![License](https://github.com/elibooklover/Victorian400/blob/master/license.png)
 
