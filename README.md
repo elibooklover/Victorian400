@@ -2,7 +2,7 @@
 Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 
 ---
-### Download: [Victorian400](https://drive.google.com/file/d/1yKp2flysO9paKIUlEG4TQ7ne4obC1EdF/view?usp=sharing) (521mb)
+### Download: [Victorian400](https://www.kaggle.com/elibooklover/victorian400/download) (521mb)
 ---
 
 ### Dataset
