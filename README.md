@@ -41,6 +41,11 @@ Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, Decemb
 ```
 
 ---
+
+### Funding
+In recognition of my work on the Victorian400 dataset, Graduate Merit funding of $400 was awarded to me by the Department of English, Texas A&M University.
+
+---
 [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![License](https://github.com/elibooklover/Victorian400/blob/master/license.png)
