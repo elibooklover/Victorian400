@@ -2,8 +2,18 @@
 Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 
 ---
-### Download: [Victorian400 (Kaggle)](https://www.kaggle.com/elibooklover/victorian400/download), [Victorian400 (Google Drive)](https://drive.google.com/file/d/1yKp2flysO9paKIUlEG4TQ7ne4obC1EdF/view?usp=sharing) (521mb)
+### Download: [Victorian400 (Kaggle)](https://www.kaggle.com/elibooklover/victorian400/download) (521mb)
 
+##### You can download the Victorain400 dataset directly by using the following URL: 
+```
+https://github.com/elibooklover/Victorian400/raw/master/Victorian400.tar.gz
+```
+Here is example code to use on the Victorian400 dataset: 
+```
+_URL = URL = 'https://github.com/elibooklover/Victorian400/raw/master/Victorian400.tar.gz'
+path_to_zip = tf.keras.utils.get_file('Victorian400.tar.gz', origin=_URL, extract=True)
+path1 = os.path.join(os.path.dirname(path_to_zip), 'Victorian400/')
+```
 ---
 
 ### Dataset
@@ -42,8 +52,8 @@ Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, Decemb
 
 ---
 
-### Funding
-In recognition of my work on the Victorian400 dataset, Graduate Merit funding of $400 was awarded to me by the Department of English, Texas A&M University.
+### Funding and Grant
+In recognition of my work on the Victorian400 dataset, I received a $563 Project Development Grant from the Center of Digital Humanities Research, as well as Graduate Merit funding for $400 by the Department of English, Texas A&M University.
 
 ---
 [License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
