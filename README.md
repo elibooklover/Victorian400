@@ -8,7 +8,7 @@ Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 ```
 https://github.com/elibooklover/Victorian400/raw/master/Victorian400.tar.gz
 ```
-Here is example code to use on the Victorian400 dataset: 
+Here is example code to load the Victorian400 dataset: 
 ```
 _URL = URL = 'https://github.com/elibooklover/Victorian400/raw/master/Victorian400.tar.gz'
 path_to_zip = tf.keras.utils.get_file('Victorian400.tar.gz', origin=_URL, extract=True)
