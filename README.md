@@ -4,13 +4,9 @@ Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 ---
 ### Download: [Victorian400 (Kaggle)](https://www.kaggle.com/elibooklover/victorian400/download) (521mb)
 
-##### You can download the Victorain400 dataset directly by using the following URL: 
-```
-https://elibooklover.github.io/Victorian400/Victorian400.tar.gz
-```
 Here is example code for loading the Victorian400 dataset: 
 ```
-_URL = URL = 'https://elibooklover.github.io/Victorian400/Victorian400.tar.gz'
+_URL = URL = '~/Victorian400.tar.gz'
 path_to_zip = tf.keras.utils.get_file('Victorian400.tar.gz', origin=_URL, extract=True)
 path1 = os.path.join(os.path.dirname(path_to_zip), 'Victorian400/')
 ```
