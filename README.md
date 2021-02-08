@@ -33,8 +33,8 @@ Please use the following reference to cite the dataset:
 @misc{Victorian400,
     author       = {Hoyeol Kim},
     title        = {{Victorian400 Dataset for Colorizing Victorian Illustrations}},
-    month        = Dec,
-    year         = 2019,
+    month        = Feb,
+    year         = 2021,
     publisher    = {GitHub},
     url          = {https://github.com/elibooklover/Victorian400}
     }
@@ -43,7 +43,7 @@ Please use the following reference to cite the dataset:
 or 
 
 ```
-Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, December 2019. GitHub repository: github.com/elibooklover/Victorian400.
+Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, February 2021. GitHub repository: github.com/elibooklover/Victorian400.
 ```
 
 ---
