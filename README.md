@@ -30,20 +30,19 @@ The Victorian400 dataset was tested with [pix2pix](https://phillipi.github.io/pi
 ### Citation
 Please use the following reference to cite the dataset:
 ```
-@misc{Victorian400,
-    author       = {Hoyeol Kim},
-    title        = {{Victorian400 Dataset for Colorizing Victorian Illustrations}},
-    month        = Feb,
-    year         = 2021,
-    publisher    = {GitHub},
-    url          = {https://github.com/elibooklover/Victorian400}
+@article{Victorian400,
+    title        = {{Victorian400: Colorizing Victorian Illustrations}},
+    author       = {Kim, Hoyeol},
+    journal      = {International Journal of Humanities and Arts Computing},
+    year         = {2021},
+    publisher    = {Edinburgh University Press},
     }
 ```
 
 or 
 
 ```
-Kim, Hoyeol, Victorian400 Dataset for Colorizing Victorian Illustrations, February 2021. GitHub repository: github.com/elibooklover/Victorian400.
+Kim, Hoyeol, "Victorian400: Colorizing Victorian Illustrations." International Journal of Humanities and Arts Computing, 2021.
 ```
 
 ---
