@@ -31,7 +31,7 @@ The Victorian400 dataset was tested with [pix2pix](https://phillipi.github.io/pi
 Please use the following reference to cite the dataset:
 ```
 @article{Victorian400,
-    title        = {{Victorian400: Colorizing Victorian Illustrations}},
+    title        = {Victorian400: Colorizing Victorian Illustrations},
     author       = {Kim, Hoyeol},
     journal      = {International Journal of Humanities and Arts Computing},
     year         = {2021},
