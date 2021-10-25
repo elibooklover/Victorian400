@@ -3,6 +3,7 @@ Victorian400 Dataset for Colorizing Victorian Illustrations | by Hoyeol Kim
 
 ---
 ### Download: [Victorian400 (Kaggle)](https://www.kaggle.com/elibooklover/victorian400/download) (521mb)
+### Paper: [*Victorian400*: Colorizing Victorian Illustrations](https://www.euppublishing.com/doi/10.3366/ijhac.2021.0269)
 
 Here is example code for loading the Victorian400 dataset: 
 ```
@@ -34,8 +35,12 @@ Please use the following reference to cite the dataset:
     title        = {Victorian400: Colorizing Victorian Illustrations},
     author       = {Kim, Hoyeol},
     journal      = {International Journal of Humanities and Arts Computing},
-    year         = {2021},
     publisher    = {Edinburgh University Press},
+    volume       = {15},
+    number       = {1-2},
+    year         = {2021},
+    pages        = {186-202},
+    doi          = {10.3366/ijhac.2021.0269},
     }
 ```
 
